@@ -1,0 +1,52 @@
+{
+  "incidencias": [
+    {
+      "nombre": "aresprime",
+      "fecha": "2025-03-31T23:46:07.464Z",
+      "motivo": "olvido",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "meliodas",
+      "fecha": "2025-05-12T16:56:15.239Z",
+      "motivo": "torneo",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "keko",
+      "fecha": "2025-05-19T17:59:05.393Z",
+      "motivo": "torneo",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "brayansaurio",
+      "fecha": "2025-06-09T13:58:58.538Z",
+      "motivo": "torneo",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "brayansaurio",
+      "fecha": "2025-06-10T15:16:13.700Z",
+      "motivo": "torneo",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "dant",
+      "fecha": "2025-07-08T14:15:13.934Z",
+      "motivo": "torneo",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "cimaw",
+      "fecha": "2025-07-08T14:15:32.324Z",
+      "motivo": "torneo",
+      "registradoPor": "moshik0"
+    },
+    {
+      "nombre": "fabirex04",
+      "fecha": "2025-07-09T14:37:11.556Z",
+      "motivo": "torneo",
+      "registradoPor": "greenmonster8292"
+    }
+  ]
+}
